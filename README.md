@@ -28,8 +28,8 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 
 1. **Clone o repositório**:
    ```bash
-   git clone [URL_DO_REPOSITÓRIO]
-   cd [NOME_DO_DIRETÓRIO]
+   git clone https://github.com/LuccaRaphael/CP5---Mobile.git
+   cd CP5---Mobile
    ```
 
 2. **Instale as dependências**:
